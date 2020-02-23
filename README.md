@@ -1,3 +1,3 @@
 # Fairy-Piece
 Fairy Piece
-And I-I_I-I Suck
+and I-I_I-I Suck
