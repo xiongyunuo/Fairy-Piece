@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><defs><style>.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style></defs><title>s</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M85.12,2.45l4.48,61,13.78,10.18L105,89.49H5l1.6-15.86,13.8-10.18,4.48-61"/><path class="cls-2" d="M107.48,69.8,93.85,59.68,89.56,3.17h0L82.8.08H27L26.89,0l-7,2.76.56.41L16.15,59.68,2.51,69.8,0,92.44H110Zm-81-63.38h57l3.7,50.35H22.79ZM55,86.09H7.23L8.52,73.32l13.8-10.21H87.68l13.8,10.21,1.29,12.77Z"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 180 180" style="enable-background:new 0 0 180 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B63C41;}
+	.st1{fill:#040000;}
+</style>
+<title>s</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<path class="st0" d="M120.1,46.2l4.5,61l13.8,10.2l1.6,15.9H40l1.6-15.9l13.8-10.2l4.5-61"/>
+		<path class="st1" d="M142.5,113.6l-13.6-10.1l-4.3-56.5l0,0l-6.8-3.1H62l-0.1-0.1l-7,2.8l0.6,0.4l-4.3,56.5l-13.6,10.1L35,136.2
+			h110L142.5,113.6z M61.5,50.2h57l3.7,50.4H57.8L61.5,50.2z M90,129.9H42.2l1.3-12.8l13.8-10.2h65.4l13.8,10.2l1.3,12.8H90z"/>
+	</g>
+</g>
+</svg>
